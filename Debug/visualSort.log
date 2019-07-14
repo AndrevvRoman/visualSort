@@ -1,0 +1,22 @@
+﻿  Source.cpp
+d:\адская дрочильня\visualsort\visualsort\source.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+d:\адская дрочильня\visualsort\visualsort\source.cpp(39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\адская дрочильня\visualsort\visualsort\source.cpp(41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\адская дрочильня\visualsort\visualsort\source.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+d:\адская дрочильня\visualsort\visualsort\source.cpp(64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\адская дрочильня\visualsort\visualsort\source.cpp(80): warning C4018: <: несоответствие типов со знаком и без знака
+d:\адская дрочильня\visualsort\visualsort\source.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+d:\адская дрочильня\visualsort\visualsort\source.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+  visualSort.vcxproj -> D:\адская дрочильня\visualSort\Debug\visualSort.exe
